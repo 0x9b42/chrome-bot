@@ -1,5 +1,5 @@
 const userNicknames = {
-    'evndaru': 'lele',
+    'annyctowl': 'Mob',
 };
 
 module.exports = userNicknames
